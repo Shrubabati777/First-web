@@ -1,0 +1,158 @@
+
+.fb{
+  height: 40px;
+  width:40px;
+  border-radius: 50%;
+  height:40px;
+  width:40px;
+  position: fixed;
+  top:35px;
+  right:0;
+}
+
+.in{
+  height: 40px;
+  width:40px;
+  border-radius: 50%;
+  height:40px;
+  width:40px;
+  position: fixed;
+  top:120px;
+  right:0;
+}
+.em{
+  height: 40px;
+  width:40px;
+  border-radius: 50%;
+  height:35px;
+  width:40px;
+  position: fixed;
+  top:80px;
+  right:0;
+}
+h1{
+  text-align: center;
+  color: black;
+  font-family: 'Amatic SC', cursive;
+
+  font-size: 60px;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  padding-top: 25px;
+  font-size: 40px;
+}
+p{
+
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  position: absolute;
+  top:1300px;
+  padding-left: 400px;
+
+}
+.tith{
+  height: 80px;
+  width:80px;
+  border-radius: 70%;
+  position: fixed;
+  top:30px;
+  left:40px;
+}
+.tith:hover{
+  height: 80px;
+  width:80px;
+  border-radius: 70%;
+  position: fixed;
+  top:30px;
+  left:40px;
+  border-width: thick;
+  border-color: white;
+  border-style: solid;
+}
+/*
+
+  background-color: #c3edea;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: black;
+  font-family: 'Righteous', cursive;
+  padding-top: 45px;
+}
+h2{
+  text-align: center;
+  color: white;
+  font-family: 'Righteous', cursive;
+  padding-top: 20px;
+}
+h3{
+  text-align: center;
+  color: white;
+  font-family: 'Righteous', cursive;
+  padding-top: 45px;
+}
+p{
+  text-align: center;
+  color: white;
+  font-family: 'Forum', cursive;
+  padding-top: 45px;
+}
+}
+.cloud-top{
+  position: absolute;
+  top:200px;
+  left:470px;
+}
+.cloud-bottom{
+  position: absolute;
+  top:120px;
+  left:900px;
+}
+.mountain{
+  position: relative;
+}
+.feed1{
+  background-color: #162447;
+  position: absolute;
+  width:100%;
+  left:0;
+  height:1200px;
+  top:480px;
+}
+.feed4{
+  background-color: #162447;
+  position: fixed;
+  width:300px;
+  right:0;
+  height:200px;
+  top:0;
+  border-style: solid;
+  border-color: #f7f7f7;
+  border-width: 10px;
+}
+.fb{
+  position: fixed;
+  height: 50px;
+  width:50px;
+  right:20px;
+  top:125px;
+}
+.in{
+  position: fixed;
+  height: 50px;
+  width:50px;
+  right:130px;
+  top:125px;
+}
+.em{
+  position: fixed;
+  height: 50px;
+  width:70px;
+  right:230px;
+  top:125px;
+}
+*/
